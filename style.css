@@ -1,0 +1,23 @@
+html, body {
+  margin: center;
+  padding: 0;
+  background-color: yellow;
+  background-image:url('lig.jpg'); background-attachment: fixed; background-repeat: repeat; 
+  background-size: cover;  
+}
+
+canvas {
+  margin: auto;
+  display: block;
+  position: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+canvas {
+  border: 3px ridge Green;
+}
